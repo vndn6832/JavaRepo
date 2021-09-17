@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {	
+class Main2and3 {	
 	public String solution(int n, int[] a, int[] b){
 		String answer="";
 		for(int i=0; i<n; i++){
