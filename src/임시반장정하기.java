@@ -5,7 +5,7 @@ class Main2and11{
 
     public int solution(int n, int[][] arr){
 
-        int max = 0;
+        int max = Integer.MIN_VALUE;
         int ans = 0;
         for(int i=1;i<=n;i++){
             int cnt = 0;
