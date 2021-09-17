@@ -29,7 +29,6 @@ class Main2and1{
             System.out.print(x+ " ");
         }
 
-        S.close();
 
     }
 }
