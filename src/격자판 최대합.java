@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {	
+class Main2and9 {	
 	public int solution(int n, int[][] arr){
 		//int answer=-2147000000;
         int answer = Integer.MIN_VALUE;
@@ -24,7 +24,7 @@ class Main {
 	}
 
 	public static void main(String[] args){
-		Main T = new Main();
+		Main2and9 T = new Main2and9();
 		Scanner kb = new Scanner(System.in);
 		int n=kb.nextInt();
 		int[][] arr=new int[n][n];
