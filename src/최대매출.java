@@ -7,6 +7,8 @@ class Main3and3{
         for(int i=0;i<k;i++)
             sum+=arr[i];
 
+        max = sum;
+
         for(int i=k;i<n;i++){
             sum = sum+arr[i] - arr[i-k];
             //System.out.println(i + " " + (i-k) + " " + sum);
