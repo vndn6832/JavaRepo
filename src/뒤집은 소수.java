@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Main2and5{
+class Main2and6{
 
     public boolean prime(int num){
         if(num==1) return false;
@@ -29,7 +29,7 @@ class Main2and5{
 
     public static void main(String[] args){
 
-        Main2and5 T = new Main2and5();
+        Main2and6 T = new Main2and6();
         Scanner S = new Scanner(System.in);
 
         int n = S.nextInt();
