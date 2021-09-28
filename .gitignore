@@ -401,3 +401,5 @@ FodyWeavers.xsd
 *.class
 
 응급실.java
+
+test.java
